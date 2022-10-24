@@ -1,0 +1,7 @@
+.content {
+  @include mq("pc") {
+  }
+
+  @include mq("tab") {
+  }
+}
